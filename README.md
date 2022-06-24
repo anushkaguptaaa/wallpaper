@@ -24,4 +24,4 @@ Compilation of the wallpapers I ever used or came across
         Cats Dance GIFs
     </a>
 </div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!-- <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
